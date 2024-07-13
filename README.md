@@ -4,7 +4,11 @@ I am Andrea, a Data Scientist with a strong background in biotechnology and evol
 I always looking forward to the next challenge and growth opportunity.
 If you would like to grab a virtual coffee and talk about science and other things, you can find me on [![Linkedin][1.2]][1] or here on [![Github][2.2]][2].
 
-## 🔧 Languages, technologies and tools I am experienced with
+## 🔧 Skills, Languages, Technologies and Tools I am experienced with
+
+- **Drug Development**: Biomarker Discovery, Target Discovery, Translational Science, Precision Medicine
+- **Biology**: Biotechnology, Molecular Biology, Biochemistry, Immunology, Genetics, Microbiology
+- **Bioinformatics & Data Science**: Multi-omics integration, Population Genomics, Genome Assembly & Annotation, Comparative Transcriptomics, Phylogenomics, Proteomics, Metagenomics, Cell Deconvolution
 - **Languages:** bash, Python, R
 - **DevOps:** Git
 - **MLOps:** MLFlow
