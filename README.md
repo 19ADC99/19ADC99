@@ -17,7 +17,7 @@ If you would like to grab a virtual coffee and talk about science and other thin
 ## &#x270d; Portofolio (work in progress)
 
 - [Viking's Project](https://19adc99.github.io/vikingsproject/)
-- [A gentle introduction to spatial transcriptomics](https://19adc99.github.io/ad_spatial/)
+- [A gentle introduction to spatial transcriptomics](https://19adc99.github.io/AD_spatial/)
 
 <!-- Link to icons -->
 [1.2]: https://www.flaticon.com/free-icon/linkedin_174857 (linkedin icon)
