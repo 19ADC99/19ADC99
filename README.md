@@ -16,10 +16,14 @@ If you would like to grab a virtual coffee and talk about science and other thin
 
 ## &#x270d; Portofolio (work in progress)
 
-- [Viking's Project](https://19adc99.github.io/vikingsproject/) --> Work in Progress
-- [Development of taxonomical biomarkers for Ulva genus](https://github.com/19ADC99/UlvaOmics) --> Work in Progress
-- [A gentle introduction to spatial transcriptomics](https://19adc99.github.io/AD_spatial/)
-- [Multi-omics integration for target discovery](https://19adc99.github.io/cancer_deploy) --> Work in Progress
+- Drug Discovery
+    - [A gentle introduction to spatial transcriptomics](https://19adc99.github.io/AD_spatial/)
+    - [Multi-omics integration for target discovery](https://19adc99.github.io/cancer_deploy) --> Work in Progress
+- Comparative Genomics
+    - [Viking's Project](https://19adc99.github.io/vikingsproject/) --> Work in Progress
+    - [Development of taxonomical biomarkers for Ulva genus](https://github.com/19ADC99/UlvaOmics) --> Work in Progress
+- Tools
+    - [Characterization of tumor microenvironment with infiltR](https://github.com/19ADC99/infiltR) --> Work in Progress
 
 
 <!-- Link to icons -->
