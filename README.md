@@ -24,6 +24,7 @@ If you would like to grab a virtual coffee and talk about science and other thin
     - [Development of taxonomical biomarkers for Ulva genus](https://github.com/19ADC99/UlvaOmics) --> Work in Progress
 - Tools
     - [Characterization of tumor microenvironment with infiltR](https://github.com/19ADC99/infiltR) --> Work in Progress
+    - [Differential Gene Expression analysis made easy with DGEasyR](https://github.com/19ADC99/DGEasyR) --> Work in Progress
 
 
 <!-- Link to icons -->
