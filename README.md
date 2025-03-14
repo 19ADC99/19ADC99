@@ -21,7 +21,7 @@ If you would like to grab a virtual coffee and talk about science and other thin
     - [Multi-omics integration for target discovery](https://19adc99.github.io/cancer_deploy) --> Work in Progress
 - Comparative Genomics
     - [Viking's Project](https://19adc99.github.io/vikingsproject/) --> Work in Progress
-    - [Development of taxonomical biomarkers for Ulva genus](https://github.com/19ADC99/UlvaOmics) --> Work in Progress
+    - [Development of taxonomical biomarkers for Ulva genus](https://github.com/19ADC99/UlvaOmics)
 - Tools
     - [Characterization of tumor microenvironment with infiltR](https://github.com/19ADC99/infiltR)
     - [Differential Gene Expression analysis made easy with DGEasyR](https://github.com/19ADC99/DGEasyR) --> Work in Progress
