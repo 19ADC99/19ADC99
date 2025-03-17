@@ -16,17 +16,17 @@ If you would like to grab a virtual coffee and talk about science and other thin
 
 ## &#x270d; Portofolio
 
-- Drug Discovery
+- **Drug Discovery**
     - [A gentle introduction to spatial transcriptomics](https://19adc99.github.io/AD_spatial/)
     - Multi-omics integration for target discovery:
          - [Molecular characterization of Kidney Carcinomas](https://19adc99.github.io/cancer_deploy/dataset-exploration.html) --> Work in Progress ...
-- Comparative Genomics
+- **Comparative Genomics**
     - [Viking's Project](https://19adc99.github.io/vikingsproject/) --> Work in Progress ...
     - [Development of taxonomical biomarkers for Ulva genus](https://19adc99.github.io/UlvaOmics/)
-- Bioinformatics/Data Science Tools
+- **Bioinformatics/Data Science Tools**
     - [Characterization of tumor microenvironment with infiltR](https://github.com/19ADC99/infiltR)
     - [Differential Gene Expression analysis made easy with DGEasyR](https://github.com/19ADC99/DGEasyR) --> Coming Soon!
-- Other Tools
+- **Other Tools**
     - [Low cost flights finder](https://github.com/19ADC99/low-cost-flights) --> Coming Soon!
 
 
