@@ -14,14 +14,14 @@ If you would like to grab a virtual coffee and talk about science and other thin
 - **MLOps:** MLFlow
 - **Cloud:** Google Cloud (Cloud function, Cloud Run, Compute Engine)
 
-## &#x270d; Portofolio (work in progress)
+## &#x270d; Portofolio
 
 - Drug Discovery
     - [A gentle introduction to spatial transcriptomics](https://19adc99.github.io/AD_spatial/)
     - Multi-omics integration for target discovery:
-         - [Molecular characterization of Kidney Carcinomas](https://19adc99.github.io/cancer_deploy/dataset-exploration.html) --> Work in Progress
+         - [Molecular characterization of Kidney Carcinomas](https://19adc99.github.io/cancer_deploy/dataset-exploration.html) --> Work in Progress ...
 - Comparative Genomics
-    - [Viking's Project](https://19adc99.github.io/vikingsproject/) --> Work in Progress
+    - [Viking's Project](https://19adc99.github.io/vikingsproject/) --> Work in Progress ...
     - [Development of taxonomical biomarkers for Ulva genus](https://19adc99.github.io/UlvaOmics/)
 - Bioinformatics/Data Science Tools
     - [Characterization of tumor microenvironment with infiltR](https://github.com/19ADC99/infiltR)
