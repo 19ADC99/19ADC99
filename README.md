@@ -33,7 +33,7 @@ If you would like to grab a virtual coffee and talk about science and other thin
 - [Low cost flights finder](https://github.com/19ADC99/low-cost-flights) --> Coming Soon!
 
 
-## 🧙 "I cast: `Visitor Number #`
+## 🧙 "I cast: `'Visitor Number #'`"
 
 ![Visitor Count](https://profile-counter.glitch.me/19ADC99/count.svg)
 
