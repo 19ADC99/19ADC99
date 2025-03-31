@@ -33,6 +33,11 @@ If you would like to grab a virtual coffee and talk about science and other thin
 - [Low cost flights finder](https://github.com/19ADC99/low-cost-flights) --> Coming Soon!
 
 
+
+
+![Visitor Count](https://profile-counter.glitch.me/19ADC99/count.svg)
+
+
 <!-- Link to icons -->
 [1.2]: https://www.flaticon.com/free-icon/linkedin_174857 (linkedin icon)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
