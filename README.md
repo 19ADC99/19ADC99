@@ -1,7 +1,7 @@
 ## 👋 Hi there  
-I am Andrea, a Data Scientist with a strong background in biotechnology and evolutionary genomics.
+I am Andrea Del Cortona, a Scientist with a strong background in biotechnology and evolutionary genomics and 10+ years experice in bioinformatics and data science.
 
-I always looking forward to the next challenge and growth opportunity.
+I always look forward to the next challenge and growth opportunity.
 If you would like to grab a virtual coffee and talk about science and other things, you can find me on [![Linkedin][1.2]][1] or here on [![Github][2.2]][2].
 
 ## 🔧 Skills, Languages, Technologies and Tools I am experienced with
