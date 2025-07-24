@@ -26,6 +26,7 @@ If you would like to grab a virtual coffee and talk about science and other thin
 **Comparative Genomics**
 - [Viking's Project](https://19adc99.github.io/vikingsproject/) --> Work in Progress ...
 - [Development of taxonomical biomarkers for Ulva genus](https://19adc99.github.io/UlvaOmics/)
+- [Trappist genome evolution](https://github.com/19ADC99/Trappist_genome_evolution) --> Coming Soon!
 
 **Bioinformatics/Data Science Tools**
 - [Characterization of tumor microenvironment with infiltR](https://github.com/19ADC99/infiltR)
