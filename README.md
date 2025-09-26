@@ -19,8 +19,8 @@ If you would like to grab a virtual coffee and talk about science and other thin
 **Drug Discovery**
 - [A gentle introduction to spatial transcriptomics](https://19adc99.github.io/AD_spatial/)
 - Multi-omics integration for target discovery:
-    - [Molecular characterization of Kidney Carcinomas](https://19adc99.github.io/cancer_deploy/dataset-exploration.html)
-    - [Discovery of Prognostic Biomarkers in Kidney Carcinomas] --> Work in Progress ...
+    - [Molecular characterization of Kidney Carcinomas](https://19adc99.github.io/cancer_deploy/p01-01-dataset-exploration.html)
+    - [Discovery of Prognostic Biomarkers in Kidney Carcinomas](https://19adc99.github.io/cancer_deploy/p02-01-features-selection.html) --> Work in Progress ...
     - [Therapeutic Target Discovery in Kidney Clear Cell Cancer] --> Coming Soon!
 
 **Comparative Genomics**
