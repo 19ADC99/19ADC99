@@ -5,6 +5,11 @@ updated: 2025-10-26
 
 <img src="intro.svg" style="width:100.0%" />
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](hhttps://github.com/19ADC99)
+[![Google
+Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=CPtcBboAAAAJ&hl=en)
+
 ## 🔧 Skills, Languages, Technologies and Tools I am experienced with
 
 - **Drug Development**: Biomarker Discovery, Target Discovery,
@@ -36,7 +41,8 @@ updated: 2025-10-26
 
 **🧬 Comparative Genomics**
 
-- [Viking’s Project](https://19adc99.github.io/vikingsproject/) –\> Work
+- [Viking’s Project: Farmhouse ale cultures preserve brewing’s lost
+  yeast diversity](https://19adc99.github.io/vikingsproject/) –\> Work
   in Progress …
 - [Development of taxonomical biomarkers for Ulva
   genus](https://19adc99.github.io/UlvaOmics/)
@@ -56,15 +62,13 @@ updated: 2025-10-26
 - [Low cost flights finder](https://github.com/19ADC99/low-cost-flights)
   –\> Coming Soon!
 
-## 🧙 “I cast: `'Visitor Number #'`”
-
-![](https://komarev.com/ghpvc/?username=19ADC99&label=PROFILE+VIEWS)
-
-## 📈 Github stats
+## 📈 GitHub stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19ADC99&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19ADC99&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&theme=solarized_dark)
+![19ADC99’s GitHub
+stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&show_icons=true&theme=solarized_dark)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
-[![](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7353-6987)
+## 🧙 “I cast: `'Visitor Number #'`”
+
+![](https://komarev.com/ghpvc/?username=19ADC99&label=PROFILE+VIEWS)

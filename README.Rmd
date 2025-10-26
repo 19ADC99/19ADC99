@@ -43,6 +43,12 @@ if(!file.exists("intro.svg")){
 
 ![](intro.svg){width=100%}
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](hhttps://github.com/19ADC99)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=CPtcBboAAAAJ&hl=en)
+
+
+
 
 ## 🔧 Skills, Languages, Technologies and Tools I am experienced with
 
@@ -66,7 +72,7 @@ if(!file.exists("intro.svg")){
 
 **🧬 Comparative Genomics**
 
-- [Viking's Project](https://19adc99.github.io/vikingsproject/) --> Work in Progress ...
+- [Viking's Project: Farmhouse ale cultures preserve brewing’s lost yeast diversity](https://19adc99.github.io/vikingsproject/) --> Work in Progress ...
 - [Development of taxonomical biomarkers for Ulva genus](https://19adc99.github.io/UlvaOmics/)
 - [Trappist genome evolution](https://github.com/19ADC99/Trappist_genome_evolution) --> Coming Soon!
 
@@ -80,24 +86,22 @@ if(!file.exists("intro.svg")){
 - [Low cost flights finder](https://github.com/19ADC99/low-cost-flights) --> Coming Soon!
 
 
+## 📈 GitHub stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19ADC99&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19ADC99&theme=solarized_dark)   ![19ADC99's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&show_icons=true&theme=solarized_dark)
+
+
+
 ## 🧙 "I cast: `'Visitor Number #'`"
 
 ![](https://komarev.com/ghpvc/?username=19ADC99&label=PROFILE+VIEWS)
 
 
-## 📈 Github stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19ADC99&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19ADC99&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&theme=solarized_dark)
+```{r, exec=FALSE, include=FALSE, echo=FALSE}
+# links to all badges
+# https://gist.github.com/kimjisub/360ea6fc43b82baaf7193175fd12d2f7#file-gistfile1-txt
+# <img src="https://img.shields.io/badge/-GitHub Pages-222222?style=flat&logo=githubpages&logoColor=white"/>
+```
 
-
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
-[![](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7353-6987)
-[![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
-
-
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Linkerd-2BEDA7?style=flat&logo=linkerd&logoColor=white"/>
