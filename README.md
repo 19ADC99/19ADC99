@@ -6,7 +6,7 @@ updated: 2025-10-26
 <img src="intro.svg" style="width:100.0%" />
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](hhttps://github.com/19ADC99)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/19ADC99)
 [![Google
 Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=CPtcBboAAAAJ&hl=en)
 
