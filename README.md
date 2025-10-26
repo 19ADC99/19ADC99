@@ -1,16 +1,9 @@
 Hi there 👋
 ================
 Andrea Del Cortona
-updated: 2025-10-25
+updated: 2025-10-26
 
 <img src="intro.svg" style="width:100.0%" />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19ADC99&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19ADC99&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&theme=github_dark)
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86175474/)
 
 ## 🔧 Skills, Languages, Technologies and Tools I am experienced with
 
@@ -65,10 +58,13 @@ updated: 2025-10-25
 
 ## 🧙 “I cast: `'Visitor Number #'`”
 
-<figure>
-<img
-src="https://komarev.com/ghpvc/?username=19ADC99&amp;label=PROFILE+VIEWS"
-alt="Profile view counter on GitHub" />
-<figcaption aria-hidden="true">Profile view counter on
-GitHub</figcaption>
-</figure>
+![](https://komarev.com/ghpvc/?username=19ADC99&label=PROFILE+VIEWS)
+
+## 📈 Github stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19ADC99&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19ADC99&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&theme=solarized_dark)
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
+[![](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7353-6987)

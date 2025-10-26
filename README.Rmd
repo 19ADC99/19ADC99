@@ -6,28 +6,42 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
+
+# knitr options
 knitr::opts_chunk$set(
   echo = FALSE,
   comment = "\t",
   fig.path = "",
   out.width = "100%")
+
 source("who_am_I.R")
+
+# generate svg for intro if not there
+if(!file.exists("intro.svg")){
+  
+  library("asciicast")
+
+  # cast script
+  cast = asciicast::record(
+    "to_cast.R",
+    rows = 12
+  )
+  
+  # export to SVG
+  asciicast::write_svg(
+    cast,
+    "intro.svg",
+    window = TRUE,
+    theme = "solarized-dark"
+  )
+
+}
+
 ```
 
 
 
-
-
 ![](intro.svg){width=100%}
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19ADC99&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19ADC99&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&theme=github_dark)
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86175474/)
-
 
 
 ## 🔧 Skills, Languages, Technologies and Tools I am experienced with
@@ -70,3 +84,20 @@ source("who_am_I.R")
 
 ![](https://komarev.com/ghpvc/?username=19ADC99&label=PROFILE+VIEWS)
 
+
+## 📈 Github stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19ADC99&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19ADC99&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&theme=solarized_dark)
+
+
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
+[![](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7353-6987)
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-del-cortona-86a75474/)
+
+
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linkerd-2BEDA7?style=flat&logo=linkerd&logoColor=white"/>
