@@ -96,7 +96,7 @@ if(!file.exists("intro.svg")){
 
 ## 🧙 "I cast: `'Visitor Number #'`"
 
-![](https://komarev.com/ghpvc/?username=19ADC99&label=Visitor+Number+#)
+![](https://komarev.com/ghpvc/?username=19ADC99&label=Visitor+Number+&0035)
 
 
 

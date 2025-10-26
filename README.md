@@ -65,10 +65,9 @@ Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scho
 ## 📈 GitHub stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19ADC99&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&show_icons=true&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19ADC99&theme=transparent)
-![19ADC99’s GitHub
-stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19ADC99&show_icons=true&theme=transparent)
 
 ## 🧙 “I cast: `'Visitor Number #'`”
 
-![](https://komarev.com/ghpvc/?username=19ADC99&label=Visitor+Number+#)
+![](https://komarev.com/ghpvc/?username=19ADC99&label=Visitor+Number+&0035)
