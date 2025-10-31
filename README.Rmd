@@ -75,6 +75,7 @@ if(!file.exists("intro.svg")){
 - [Viking's Project: Farmhouse ale cultures preserve brewing’s lost yeast diversity](https://19adc99.github.io/vikingsproject/) --> Work in Progress ...
 - [Development of taxonomical biomarkers for Ulva genus](https://19adc99.github.io/UlvaOmics/)
 - [Trappist genome evolution](https://github.com/19ADC99/Trappist_genome_evolution) --> Coming Soon!
+- [Subcellular transcript localization and Dasycladales morphology]() --> Coming Soon!
 
 **🧰 Bioinformatics/Data Science Tools**
 
